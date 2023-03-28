@@ -1,8 +1,48 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Katie's Icons
+description: Some free-to-use icons that I've made myself!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://icons.katiebuilder.website
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+logo: "/icons/star/ki_star.svg"
+favicon_ico: "/icons/star/ki_star.svg"
+
+search_enabled: true
+search:
+  button: true
+
+mermaid:
+  version: "9.1.3"
+
+heading_anchors: true
+
+footer_content: "All icons are free to use. No credit required."
+
+color_scheme: icons # See /_sass/color_schemes/icons.scss
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: red
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+collections:
+  all-icons:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    all-icons:
+      name: All icons
+      nav_fold: true
