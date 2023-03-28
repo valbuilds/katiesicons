@@ -3,10 +3,7 @@ title: Star
 layout: default
 ---
 
-{: .warning }
-Downloads not working right now!
-
-# Star
+# Star (`star`)
 Introduced: Mar. 28, 2023
 
 ## Downloads

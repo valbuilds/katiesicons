@@ -4,8 +4,8 @@ theme: just-the-docs
 
 url: https://icons.katiebuilder.website
 
-logo: "/icons/star/ki_star.svg"
-favicon_ico: "/icons/star/ki_star.svg"
+logo: "/icons/ki/ki_ki.svg"
+favicon_ico: "/icons/ki/ki_ki.svg"
 
 search_enabled: true
 search:
